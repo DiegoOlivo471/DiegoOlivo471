@@ -30,7 +30,7 @@ Membro de software da equipe de robótica da UFABC, competindo na **Small Size L
 
 ## 🗂️ Projetos
 
-### Tic-Tac-Toe com IA
+### [Tic-Tac-Toe com IA](https://github.com/DiegoOlivo471/Tic-Tac-Toe-PSCapim)
 Implementação completa do Jogo da Velha com IA via algoritmo **Minimax**.  
 Versão terminal + versão web, com testes unitários e commits convencionais.
 
