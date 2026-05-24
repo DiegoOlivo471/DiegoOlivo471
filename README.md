@@ -26,8 +26,6 @@ Membro de software da equipe de robótica da UFABC, competindo na **Small Size L
 **Competições:**
 - 🏆 **CBR 2025** — Competição Brasileira de Robótica, Vitória/ES
 
-> *"Robótica de time exige código que funciona sob pressão — e comunicação que funciona o tempo todo."*
-
 ---
 
 ## 🗂️ Projetos
