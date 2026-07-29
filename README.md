@@ -12,6 +12,8 @@ Estudante de Ciência e Tecnologia na **UFABC**, com especialização planejada 
 Trabalho com algoritmos de *Path Planning* e *Inteligência Artificial* em Python na equipe de robótica **Project Neon**, competindo na Small Size League da RoboCup.  
 Apaixonado por fotografia, música e por construir coisas que funcionam.
 
+> "In God we trust. All others must bring data."
+
 ---
 
 ## 🤖 Project Neon — UFABC Robotics
